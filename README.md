@@ -63,5 +63,5 @@ README.md                     # Project documentation
 
 ## ✨ Author
 
-**Aastha**
+**Smriti**
 Exploring data-driven insights through visualization and analysis.
